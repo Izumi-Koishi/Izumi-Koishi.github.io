@@ -1,3 +1,7 @@
+---
+title: "运行 mlperf-inference v3.0 的 dlrm 多卡测试"
+---
+
 学习的一些心得
 
     #include<iostream>
